@@ -1,0 +1,170 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 10,
+  "bbox_right": 32,
+  "bbox_top": 7,
+  "bbox_bottom": 31,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 44,
+  "height": 44,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"d69dcd6d-928d-49e5-ab9f-c7c5533a0671","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d69dcd6d-928d-49e5-ab9f-c7c5533a0671","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"d69dcd6d-928d-49e5-ab9f-c7c5533a0671","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5a074f83-c7ae-4d0f-98cf-5c9b30af4686","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5a074f83-c7ae-4d0f-98cf-5c9b30af4686","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"5a074f83-c7ae-4d0f-98cf-5c9b30af4686","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8ddb0c98-6692-45f5-9591-8f2015bd5c59","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8ddb0c98-6692-45f5-9591-8f2015bd5c59","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"8ddb0c98-6692-45f5-9591-8f2015bd5c59","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ee012483-7f6f-4616-8697-84b40ef1af71","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ee012483-7f6f-4616-8697-84b40ef1af71","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"ee012483-7f6f-4616-8697-84b40ef1af71","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"eec01bc0-2209-4ffe-b5af-35763a3707bf","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"eec01bc0-2209-4ffe-b5af-35763a3707bf","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"eec01bc0-2209-4ffe-b5af-35763a3707bf","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3ccc26c1-8fb8-415a-9817-29f2d1964a52","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3ccc26c1-8fb8-415a-9817-29f2d1964a52","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"3ccc26c1-8fb8-415a-9817-29f2d1964a52","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7043814d-0261-4ab0-a61e-be17824f5175","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7043814d-0261-4ab0-a61e-be17824f5175","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"7043814d-0261-4ab0-a61e-be17824f5175","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"30f7399a-be38-448d-9aba-232b427612ee","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"30f7399a-be38-448d-9aba-232b427612ee","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"30f7399a-be38-448d-9aba-232b427612ee","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"760f2b03-627c-4783-9e7d-17992deee9e7","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"760f2b03-627c-4783-9e7d-17992deee9e7","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"760f2b03-627c-4783-9e7d-17992deee9e7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"dae8a468-81f1-4950-b114-97375e0475f1","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"dae8a468-81f1-4950-b114-97375e0475f1","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"dae8a468-81f1-4950-b114-97375e0475f1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"41b0649c-0ef0-447e-92d6-7348328f36b0","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"41b0649c-0ef0-447e-92d6-7348328f36b0","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"41b0649c-0ef0-447e-92d6-7348328f36b0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fbbae25f-294d-4036-9fdd-426f0d01e78c","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fbbae25f-294d-4036-9fdd-426f0d01e78c","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"fbbae25f-294d-4036-9fdd-426f0d01e78c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d8cdca00-d2dd-4688-97a4-2eb79d933584","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d8cdca00-d2dd-4688-97a4-2eb79d933584","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"d8cdca00-d2dd-4688-97a4-2eb79d933584","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4a7d9057-1555-4ea3-94ad-d620598469b4","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4a7d9057-1555-4ea3-94ad-d620598469b4","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"4a7d9057-1555-4ea3-94ad-d620598469b4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6e9960fe-b731-4939-87b2-63efe63a379c","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6e9960fe-b731-4939-87b2-63efe63a379c","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"6e9960fe-b731-4939-87b2-63efe63a379c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e234a091-e460-4df5-9be2-d63d20a4018c","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e234a091-e460-4df5-9be2-d63d20a4018c","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"e234a091-e460-4df5-9be2-d63d20a4018c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"795ac490-15c3-4084-b490-80decf116088","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"795ac490-15c3-4084-b490-80decf116088","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"795ac490-15c3-4084-b490-80decf116088","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"796b0b9d-f33e-4893-9387-4c0773435c5b","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"796b0b9d-f33e-4893-9387-4c0773435c5b","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"796b0b9d-f33e-4893-9387-4c0773435c5b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"09f3a31f-d489-4a9c-9945-59a7d9eca79f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"09f3a31f-d489-4a9c-9945-59a7d9eca79f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"09f3a31f-d489-4a9c-9945-59a7d9eca79f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"471b106a-077d-46dc-8cdf-d2bcc629235f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"471b106a-077d-46dc-8cdf-d2bcc629235f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"471b106a-077d-46dc-8cdf-d2bcc629235f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"46e5a4e5-f844-462e-82a5-028690420618","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"46e5a4e5-f844-462e-82a5-028690420618","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"46e5a4e5-f844-462e-82a5-028690420618","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4af96e86-3b74-43b6-abfc-93c015c9996a","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4af96e86-3b74-43b6-abfc-93c015c9996a","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"4af96e86-3b74-43b6-abfc-93c015c9996a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7154ba85-add5-45af-a4e3-d143a09846eb","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7154ba85-add5-45af-a4e3-d143a09846eb","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"7154ba85-add5-45af-a4e3-d143a09846eb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"eb6b2811-eb50-48c7-bc33-84cb5fdb4032","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"eb6b2811-eb50-48c7-bc33-84cb5fdb4032","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"LayerId":{"name":"b06015fa-6f52-4328-952e-3e708b84cf7f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","name":"eb6b2811-eb50-48c7-bc33-84cb5fdb4032","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 1.0,
+    "playbackSpeedType": 1,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 24.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"3dd54cf9-b80a-420f-94f4-3eedcd2c0047","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d69dcd6d-928d-49e5-ab9f-c7c5533a0671","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d7342add-1342-4f82-a5ba-362290728b38","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5a074f83-c7ae-4d0f-98cf-5c9b30af4686","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"981d039e-c908-4236-b936-9551270bc195","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8ddb0c98-6692-45f5-9591-8f2015bd5c59","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b074b3bc-5d73-4bbc-8740-00c127de6561","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ee012483-7f6f-4616-8697-84b40ef1af71","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c9452d3a-f778-4802-ab88-3d2cfea83153","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eec01bc0-2209-4ffe-b5af-35763a3707bf","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"09650e25-7db4-4f95-bd88-9e73a50db602","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3ccc26c1-8fb8-415a-9817-29f2d1964a52","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cde7af2e-9637-4c3c-8f99-1cac9d9494e9","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7043814d-0261-4ab0-a61e-be17824f5175","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7ed1cde4-41f4-42de-a9b1-9dc25497eefb","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"30f7399a-be38-448d-9aba-232b427612ee","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9efe8814-79c1-45e8-8e20-f7a2c1d24a06","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"760f2b03-627c-4783-9e7d-17992deee9e7","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c0fa63f7-6c08-4abf-9769-ce59c477d2f8","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dae8a468-81f1-4950-b114-97375e0475f1","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"401099b9-dc6b-4814-8103-71214bce6f1b","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"41b0649c-0ef0-447e-92d6-7348328f36b0","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f433da37-0581-4bbd-bbbe-dd95edbf821b","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fbbae25f-294d-4036-9fdd-426f0d01e78c","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"12fdbc6e-d3d5-4141-8c97-cc0e88d65e99","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d8cdca00-d2dd-4688-97a4-2eb79d933584","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"41c14fb4-8035-4a7c-9a8a-4476bfcd7877","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4a7d9057-1555-4ea3-94ad-d620598469b4","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a3b005ba-7024-4473-87a9-22b2555a7614","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6e9960fe-b731-4939-87b2-63efe63a379c","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"41772295-e9f3-4bad-9c5c-cb63f1b6cbb3","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e234a091-e460-4df5-9be2-d63d20a4018c","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"36d890d4-4fef-4a9e-9600-3cc1d738019e","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"795ac490-15c3-4084-b490-80decf116088","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"650a7565-9c00-4ff8-bf11-49cc4ee4dfbb","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"796b0b9d-f33e-4893-9387-4c0773435c5b","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b627410a-a1c9-477e-8da3-fcfee93d95ac","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"09f3a31f-d489-4a9c-9945-59a7d9eca79f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"121300b9-3179-4fa0-b492-29f3344dcc09","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"471b106a-077d-46dc-8cdf-d2bcc629235f","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c20f4548-6b46-4850-98df-ec908802f646","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"46e5a4e5-f844-462e-82a5-028690420618","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3e5848f1-0d1b-4164-a2bb-63fa3cae0c69","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4af96e86-3b74-43b6-abfc-93c015c9996a","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"387d0e47-258b-4b96-ad30-f1bfb208a6f4","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7154ba85-add5-45af-a4e3-d143a09846eb","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fc0c3e2e-1428-4456-a75f-78c137ae00bc","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eb6b2811-eb50-48c7-bc33-84cb5fdb4032","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 22,
+    "yorigin": 22,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"spr_Cofre_KeyMimic_Comiendo","path":"sprites/spr_Cofre_KeyMimic_Comiendo/spr_Cofre_KeyMimic_Comiendo.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b06015fa-6f52-4328-952e-3e708b84cf7f","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "parent": {
+    "name": "Grandes",
+    "path": "folders/Sprites/Escenario/Misc/Cofres/Grandes.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "spr_Cofre_KeyMimic_Comiendo",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

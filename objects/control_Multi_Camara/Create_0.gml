@@ -1,0 +1,16 @@
+global.ObjectCount=0;
+global.AverageX=0;
+global.AverageY=0;
+//minsize = 260;
+minsize = 200;
+Shake_X = 0;
+Shake_Y = 0;
+limit_camera		= false;
+camera_x_default	= 320;
+camera_x			= 320;
+camera_x_to			= 320;
+camera_y_default	= 180;
+camera_y			= 180;
+camera_y_to			= 180;
+px = 0;
+py = 0;

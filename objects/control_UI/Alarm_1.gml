@@ -1,0 +1,2 @@
+/// @description  Efecto alterar salud
+

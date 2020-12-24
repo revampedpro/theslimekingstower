@@ -1,0 +1,25 @@
+/// @description  Desaparecer
+if( alarm[0] > 0 ) exit;
+if(network_is_online() and global.NETWORK_HOST == false) exit;
+if(obj_Jugador.HP < obj_Jugador.HP_Max) {
+    global.DEBUG_SALUD++;
+    obj_Jugador.HP = min(obj_Jugador.HP+1,obj_Jugador.HP_Max);
+    control_UI.alarm[1] = 10;
+    audio_play_sound( snd_Heal, 0, 0 );
+    create_effect(other.x, other.y, sprMagicEffect1, 0.5);
+    floating_text(other.x, other.y, "+1 hp", c_red, 2);
+    instance_destroy();
+} else {
+
+    // Moverse en contra del jugador
+    if(player_has_item(60) == false) {
+        var dd = point_direction(x, y, other.x, other.y);
+        var cs = 2;
+        var cx = cos(degtorad(dd))*cs;
+        var cy = sin(degtorad(dd))*cs;
+        if(place_free(x - cx, y)) x -= cx;
+        if(place_free(x, y + cy)) y += cy;
+    }
+
+}
+

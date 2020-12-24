@@ -1,0 +1,9 @@
+color = c_white;
+outline = false;
+text = "";
+alarm[0] = 120;
+d = 0;
+d -= instance_number(fx_FloatingText);
+depth -= (d);
+scale = 0;
+destroy = false;

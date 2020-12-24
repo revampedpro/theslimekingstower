@@ -1,0 +1,7 @@
+if(real(ID) == enemies.samurai_slime) {
+	var swordDirection = point_direction(x,y,obj_Jugador.x,obj_Jugador.y) + random_range(-30,30);
+	if(swordDirection <  45  or swordDirection >= 315) { var sword = instance_create(x,y,obj_MageSkeleton_Fireball); sword.Velocidad = 1; sword.Fuerza = Fuerza; sword.Direction = 0;   sword.sprite_index = sprBulletSword;  sword.image_speed = 0.8; audio_stop_sound(sndBombDrop); audio_play_sound(sndBombDrop,0,0); }
+	if(swordDirection >= 45  && swordDirection <  135) { var sword = instance_create(x,y,obj_MageSkeleton_Fireball); sword.Velocidad = 1; sword.Fuerza = Fuerza; sword.Direction = 90;  sword.sprite_index = sprBulletSword;  sword.image_speed = 0.8; audio_stop_sound(sndBombDrop); audio_play_sound(sndBombDrop,0,0); }
+	if(swordDirection >= 135 && swordDirection <  225) { var sword = instance_create(x,y,obj_MageSkeleton_Fireball); sword.Velocidad = 1; sword.Fuerza = Fuerza; sword.Direction = 180; sword.sprite_index = sprBulletSword;  sword.image_speed = 0.8; audio_stop_sound(sndBombDrop); audio_play_sound(sndBombDrop,0,0); }
+	if(swordDirection >= 225 && swordDirection <  315) { var sword = instance_create(x,y,obj_MageSkeleton_Fireball); sword.Velocidad = 1; sword.Fuerza = Fuerza; sword.Direction = 270; sword.sprite_index = sprBulletSword;  sword.image_speed = 0.8; audio_stop_sound(sndBombDrop); audio_play_sound(sndBombDrop,0,0); }
+}

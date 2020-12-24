@@ -1,0 +1,1 @@
+type = pickup_chest.heart;

@@ -1,0 +1,2 @@
+/// @description  Efecto coger moneda
+

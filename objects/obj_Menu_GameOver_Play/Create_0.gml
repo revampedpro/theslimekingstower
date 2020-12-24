@@ -1,0 +1,3 @@
+// Vars
+Activado = false;
+
